@@ -12,3 +12,5 @@ a modo de firma aqui abajo:
 - Hola, soy Jonatha Mera Vera, un saludo a todos.
 
 Hola, soy Vinicio Sarango estoy aprendiendo todo esto desde cero, espero me puedan ayudar.
+
+- Hola, soy Sebastián tengo un poco de experiencia en Java, pero siempre quiero aprender más.
