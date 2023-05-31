@@ -21,5 +21,26 @@
       "github": "https://github.com/WarDog1000",
       "instagram": "https://instagram.com/jhonysouza100"
     }
+  },
+  {
+    "id": 2,
+    "name": "Sebastián Galindo",
+    "nick": "Shadow",
+    "age": 100,
+    "home": "México",
+    "stack": {
+      "languages": [
+        { "c++": "intermediate"},
+        { "java": "intermediate" },
+        { "htmml": "basic" },
+        { "css": "basic" }
+      ],
+      "frameworks": [{}, {}, {}],
+      "libs": [],
+      "tools": []
+    },
+    "contact": {
+      "github": "https://github.com/Sebastian152"
+    }
   }
 ]
