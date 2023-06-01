@@ -85,5 +85,27 @@
       "github": "https://github.com/viniciosarango",
       "whtasapp": "+593981891840"
     }
+  },
+  {
+    "id": 5,
+    "name": "Jose Rangel",
+    "nick": "Josrenyer",
+    "age": 32,
+    "home": "Colombia",
+    "stack": {
+      "languages": [
+        { "java": "basic" },
+        { "javascript": "Intermediate"},
+        { "html": "Intermediate" },
+        { "css": "Intermediate" }
+      ],
+      "frameworks": ["Tailwind"],
+      "libs": ["React", "Bootstrap"],
+      "tools": []
+    },
+    "contact": {
+      "github": "https://github.com/josrenyer",
+      "whtasapp": "+573059272567"
+    }
   }
 ]
