@@ -107,5 +107,28 @@
       "github": "https://github.com/josrenyer",
       "whtasapp": "+573059272567"
     }
+  },
+  {
+    "id": 6,
+    "name": "Obed Garcia Rodriguez",
+    "nick": "obedRodriguez",
+    "age": 23,
+    "home": "Mexico",
+    "stack": {
+      "languages": [
+        { "java": "Intermediate" },
+        { "javascript": "Basic"},
+        { "html": "Basic" },
+        { "css": "Basic" }
+      ],
+      "frameworks": [],
+      "libs": ["Bootstrap"],
+      "tools": []
+    },
+    "contact": {
+      "github": "https://github.com/ObedRodriguez7",
+      "whtasapp": "+529621014372"
+    }
   }
+
 ]
