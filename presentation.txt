@@ -16,3 +16,5 @@ Hola, soy Vinicio Sarango estoy aprendiendo todo esto desde cero, espero me pued
 - Hola, soy Sebastián tengo un poco de experiencia en Java, pero siempre quiero aprender más.
 
 - M1GU33LL, Hola soy Miguel Apala un gusto hacer equipo con ustedes
+
+- Hola, me llamo Julio Carlos, soy Ingeniero Informatico y tengo conocimiento Basico en el lenguaje Java.
