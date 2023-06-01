@@ -63,5 +63,27 @@
     "contact": {
       "github": "https://github.com/M1GU33LL"
     }
+  },
+  {
+    "id": 4,
+    "name": "Vinicio Sarango",
+    "nick": "SENSEI",
+    "age": 44,
+    "home": "Ecuador",
+    "stack": {
+      "languages": [
+        { "java": "basic" },
+        { "javascript": "basic"},
+        { "html": "basic" },
+        { "css": "basic" }
+      ],
+      "frameworks": [{}, {}, {}],
+      "libs": [],
+      "tools": []
+    },
+    "contact": {
+      "github": "https://github.com/viniciosarango",
+      "whtasapp": "+593981891840"
+    }
   }
 ]
