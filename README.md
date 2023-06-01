@@ -13,3 +13,5 @@
 - Hola, soy [***Vinicio Sarango***](https://github.com/viniciosarango) estoy aprendiendo todo esto desde cero, espero me puedan ayudar.
 
 - Hola, soy [***Sebastián***](https://github.com/Sebastian152) tengo un poco de experiencia en Java, pero siempre quiero aprender más.
+
+- [***M1GU33LL***](https://github.com/M1GU33LL), Hola soy Miguel Apala un gusto hacer equipo con ustedes.
