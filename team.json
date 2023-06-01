@@ -42,5 +42,26 @@
     "contact": {
       "github": "https://github.com/Sebastian152"
     }
+  },
+  {
+    "id": 3,
+    "name": "Miguel Apala",
+    "nick": "M1GU33LL",
+    "age": 100,
+    "home": "Chile",
+    "stack": {
+      "languages": [
+        { "java": "intermediate" },
+        { "javascript": "intermediate"},
+        { "html": "intermediate" },
+        { "css": "basic" }
+      ],
+      "frameworks": [{}, {}, {}],
+      "libs": [],
+      "tools": []
+    },
+    "contact": {
+      "github": "https://github.com/M1GU33LL"
+    }
   }
 ]

@@ -11,3 +11,5 @@
 - Hola, soy [***Jonatha Mera Vera***](https://github.com/lilasca), un saludo a todos.
 
 - Hola, soy [***Vinicio Sarango***](https://github.com/viniciosarango) estoy aprendiendo todo esto desde cero, espero me puedan ayudar.
+
+- [***M1GU33LL***](https://github.com/M1GU33LL), Hola soy Miguel Apala un gusto hacer equipo con ustedes.
