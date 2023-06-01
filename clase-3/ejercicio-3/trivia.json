@@ -1,0 +1,29 @@
+{
+  "preguntas": [
+    {
+      "tema": "Historia",
+      "pregunta": "¿En qué año comenzó la Segunda Guerra Mundial?",
+      "respuesta": "1939"
+    },
+    {
+      "tema": "Geografía",
+      "pregunta": "¿Cuál es el río más largo del mundo?",
+      "respuesta": "Amazonas"
+    },
+    {
+      "tema": "Ciencia",
+      "pregunta": "¿Cuál es el símbolo químico del oro?",
+      "respuesta": "Au"
+    },
+    {
+      "tema": "Deportes",
+      "pregunta": "¿En qué deporte se utiliza una red y una pelota para jugar?",
+      "respuesta": "Volleyball"
+    },
+    {
+      "tema": "Arte",
+      "pregunta": "¿Quién pintó la famosa obra 'La Mona Lisa'?",
+      "respuesta": "Leonardo da Vinci"
+    }
+  ]
+}
