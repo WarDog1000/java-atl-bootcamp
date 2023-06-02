@@ -117,8 +117,8 @@
     "stack": {
       "languages": [
         { "java": "Intermediate" },
-        { "html": "Basic" },
-        { "css": "Basic" },
+        { "html": "Intermediate" },
+        { "css": "Intermediate" },
         { "javascript": "Basic"},
         { "php": "Basic"},
         { "sql": "Intermediate" }
