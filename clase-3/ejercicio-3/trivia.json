@@ -1,45 +1,18 @@
 {
   "preguntas": [
     {
-      "tema": "Historia",
-      "pregunta": "¿En qué año comenzó la Segunda Guerra Mundial?",
-      "respuesta": "1939"
+      "theme": "Historia",
+      "ask": "¿En qué año comenzó la Segunda Guerra Mundial?",
+      "options": ["1999", "1949", "1959", "1939"],
+      "answer": 4,
+      "explained": "La Segunda Guerra Mundial comenzó en el año 1939."
     },
     {
-      "tema": "Geografía",
-      "pregunta": "¿Cuál es el río más largo del mundo?",
-      "respuesta": "Amazonas"
-    },
-    {
-      "tema": "Ciencia",
-      "pregunta": "¿Cuál es el símbolo químico del oro?",
-      "respuesta": "Au"
-    },
-    {
-      "tema": "Deportes",
-      "pregunta": "¿En qué deporte se utiliza una red y una pelota para jugar?",
-      "respuesta": "Volleyball"
-    },
-    {
-      "tema": "Arte",
-      "pregunta": "¿Quién pintó la famosa obra 'La Mona Lisa'?",
-      "respuesta": "Leonardo da Vinci"
-    },
-    {
-      "tema": "Ciencia",
-      "pregunta": "¿Cúal es la formula química del agua?",
-      "respuesta": "H2O"
-           
-    },
-    {
-       "tema": "Tecnología",
-       "pregunta":"¿En qué decada se creo el lenguaje de programación Java?",
-       "respuesta": "1990"
-    },
-    {
-    	"tema": "Literatura",
-    	"pregunta": "¿Cuál es el nombre completo del autor de El Señor de los Anillos?",
-    	"respuesta": "John Ronald Rouel Tolkien"
+      "theme": "Geografía",
+      "ask": "¿Cuál es el río más largo del mundo?",
+      "options": ["agregar opcion", "agregar opcion", "río Amazonas", "agregar opcion"],
+      "answer": "3",
+      "explained": "El río más largo del mundo es el río Amazonas."
     }
     
   ]
