@@ -129,6 +129,31 @@
       "github": "https://github.com/ObedRodriguez7",
       "whtasapp": "+529621014372"
     }
+  },
+  {
+    "id": 7,
+    "name": "Nehemias",
+    "nick": "yeyisten34",
+    "age": 23,
+    "home": "México",
+    "stack": {
+      "languages": [
+        { "java": "intermediate" },
+        { "sql": "advanced"},
+        {"python": "basic"},
+        {"c#": "basic"},
+        {"js": "basic"}
+      ],
+      "frameworks": [
+      {"primefaces":"intermediate"}
+      ],
+      "libs": [],
+      "tools": []
+    },
+    "contact": {
+      "github": "https://github.com/yeyisten34",
+      "instagram": "@literatura_img"
+    }
   }
 
 ]
