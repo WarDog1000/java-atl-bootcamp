@@ -117,17 +117,19 @@
     "stack": {
       "languages": [
         { "java": "Intermediate" },
+        { "html": "Intermediate" },
+        { "css": "Intermediate" },
         { "javascript": "Basic"},
-        { "html": "Basic" },
-        { "css": "Basic" }
+        { "kotlin": "Basic"},
+        { "php": "Basic"},
+        { "sql": "Intermediate" }
       ],
       "frameworks": [],
       "libs": ["Bootstrap"],
       "tools": []
     },
     "contact": {
-      "github": "https://github.com/ObedRodriguez7",
-      "whtasapp": "+529621014372"
+      "github": "https://github.com/ObedRodriguez7"
     }
   },
   {
