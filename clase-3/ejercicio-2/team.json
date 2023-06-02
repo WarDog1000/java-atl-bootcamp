@@ -120,6 +120,7 @@
         { "html": "Intermediate" },
         { "css": "Intermediate" },
         { "javascript": "Basic"},
+        { "kotlin": "Basic"},
         { "php": "Basic"},
         { "sql": "Intermediate" }
       ],
