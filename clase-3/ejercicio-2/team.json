@@ -63,5 +63,30 @@
     "contact": {
       "github": "https://github.com/M1GU33LL"
     }
+  },
+  {
+    "id": 4,
+    "name": "Nehemias",
+    "nick": "yeyisten34",
+    "age": 23,
+    "home": "México",
+    "stack": {
+      "languages": [
+        { "java": "intermediate" },
+        { "sql": "advanced"},
+        {"python": "basic"},
+        {"c#": "basic"},
+        {"js": "basic"},
+        {"css":"basic"}
+      ],
+      "frameworks": [
+      {"primefaces":"intermediate"}
+      ],
+      "libs": [],
+      "tools": []
+    },
+    "contact": {
+      "github": "https://github.com/yeyisten34"
+    }
   }
 ]
