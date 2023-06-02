@@ -24,6 +24,23 @@
       "tema": "Arte",
       "pregunta": "¿Quién pintó la famosa obra 'La Mona Lisa'?",
       "respuesta": "Leonardo da Vinci"
+    },
+    {
+      "tema": "Ciencia",
+      "pregunta": "¿Cúal es la formula química del agua?",
+      "respuesta": "H2O"
+           
+    },
+    {
+       "tema": "Tecnología",
+       "pregunta":"¿En qué decada se creo el lenguaje de programación Java?",
+       "respuesta": "1990"
+    },
+    {
+    	"tema": "Literatura",
+    	"pregunta": "¿Cuál es el nombre completo del autor de El Señor de los Anillos?",
+    	"respuesta": "John Ronald Rouel Tolkien"
     }
+    
   ]
 }
