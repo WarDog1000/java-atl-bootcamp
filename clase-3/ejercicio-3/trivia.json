@@ -13,7 +13,29 @@
       "options": ["agregar opcion", "agregar opcion", "río Amazonas", "agregar opcion"],
       "answer": "3",
       "explained": "El río más largo del mundo es el río Amazonas."
+    },
+    {
+      "theme": "Cine",
+      "ask": "¿Quién interpretó a Tony Stark en una película de superhéroes?",
+      "options": ["Nicolas Cage", "Hugh Jackman", "Robert Downey Jr", "Julian McMahon"],
+      "answer": 2,
+      "explained": "El actor Robert Downey Jr. interpretó a Tony Stark en las películas del Universo Cinematográfico de Marvel."
+    },
+    {
+      "theme": "Informática",
+      "ask": "¿Qué significado comúnmente se asocia a la abreviatura \"URL\" ?",
+      "options": ["Uniform Resource Location", "Uniform Request Location", "Uniform Request Locator", "Uniform Resourse Locator"],
+      "answer": 3,
+      "explained": "\"URL\" en informática significa \"Uniform Resource Locator\". Es una dirección única que se utiliza para identificar la ubicación de un recurso en la web."
+    },
+    {
+      "theme": "Deportes",
+      "ask": "¿Qué país organizó la Copa Mundial de la FIFA 2002?",
+      "options": ["Italia", "Corea del Sur y Japón", "México ", "Alemania"],
+      "answer": 1,
+      "explained": "La Copa del Mundo de la FIFA 2002 fue organizada conjuntamente por Corea del Sur y Japón."
     }
+
     
   ]
 }
