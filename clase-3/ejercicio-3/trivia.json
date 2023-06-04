@@ -13,6 +13,13 @@
       "options": ["agregar opcion", "agregar opcion", "río Amazonas", "agregar opcion"],
       "answer": "3",
       "explained": "El río más largo del mundo es el río Amazonas."
+    },
+    {
+      "theme": "Cultura General",
+      "ask": "¿Cuál es la flor nacional de Japón?",
+      "options": ["Momo-Flor de Melocotón", "Kiku-Crisantemo", "Sakura-Flor del Cerezo", "Sumire-Violeta"],
+      "answer": 3,
+      "explained": "Es una flor tradicional de este país, que se conoce desde tiempo inmemoriales, pudiendo encontrarla en las principales decoraciones, y también como la flor nacional de Japón que se suele ver en las imágenes de tattoos orientales."
 
     },
     {
