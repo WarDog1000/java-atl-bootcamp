@@ -156,6 +156,25 @@
       "github": "https://github.com/yeyisten34",
       "instagram": "@literatura_img"
     }
+  },
+  {
+    "id": 8,
+    "name": "Jonathan Mera Vera",
+    "nick": "lilasca",
+    "age": 25,
+    "home": "Ecuador",
+    "stack": {
+      "languages": [
+        { "html": "advanced" },
+        { "css": "Intermediate" },
+        { "java": "basic" }
+      ],
+      "frameworks": [],
+      "libs": [],
+      "tools": [{"IDE": "vs code"}]
+    },
+    "contact": {
+      "github": "https://github.com/lilasca"
+    }
   }
-
 ]

@@ -1,0 +1,26 @@
+{
+  "preguntas": [
+    {
+      "enunciado": "¿Cuál es la capital de Francia?",
+      "opciones": [
+        "Madrid",
+        "París",
+        "Londres",
+        "Roma"
+      ],
+      "respuesta_correcta": 1,
+      "explicacion": "La respuesta correcta es París, ya que es la capital de Francia."
+    },
+    {
+      "enunciado": "¿Cuál es el planeta más grande del sistema solar?",
+      "opciones": [
+        "Tierra",
+        "Júpiter",
+        "Marte",
+        "Venus"
+      ],
+      "respuesta_correcta": 1,
+      "explicacion": "La respuesta correcta es Júpiter, ya que es el planeta más grande del sistema solar con un diámetro de aproximadamente 143,000 kilómetros."
+    }
+  ]
+}
