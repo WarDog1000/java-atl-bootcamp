@@ -35,6 +35,13 @@
       "options": ["Italia", "Corea del Sur y Japón", "México ", "Alemania"],
       "answer": 1,
       "explained": "La Copa del Mundo de la FIFA 2002 fue organizada conjuntamente por Corea del Sur y Japón."
+    },
+    {
+      "theme": "Literature",
+      "ask": "¿Quien fue el autor del señor de los anillos?",
+      "options": ["Ken Follet", "Michael Ende", "Brian Selznick", "J.R.R. Tolkien"],
+      "answer": 3,
+      "explained": "El autor del clasico libro del señor de los anillos fue Jhon Ronald Rouel Tolkien mejor conocido como J.R.R. Tolkien"
     }
  
   ]
