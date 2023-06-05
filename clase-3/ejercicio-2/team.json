@@ -1,0 +1,213 @@
+[
+  {
+    "id": 1,
+    "name": "Jhony Souza",
+    "nick": "WarDog",
+    "age": 100,
+    "home": "Argentina",
+    "stack": {
+      "languages": [
+        { "java": "intermediate" },
+        { "javascript": "advanced" },
+        { "typescript": "intermediate" },
+        { "htmml": "advanced" },
+        { "css": "advanced" }
+      ],
+      "frameworks": [{}, {}, {}],
+      "libs": [],
+      "tools": []
+    },
+    "contact": {
+      "github": "https://github.com/WarDog1000",
+      "instagram": "https://instagram.com/jhonysouza100"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Sebastián Galindo",
+    "nick": "Shadow",
+    "age": 100,
+    "home": "México",
+    "stack": {
+      "languages": [
+        { "c++": "intermediate"},
+        { "java": "intermediate" },
+        { "htmml": "basic" },
+        { "css": "basic" }
+      ],
+      "frameworks": [{}, {}, {}],
+      "libs": [],
+      "tools": []
+    },
+    "contact": {
+      "github": "https://github.com/Sebastian152"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Miguel Apala",
+    "nick": "M1GU33LL",
+    "age": 100,
+    "home": "Chile",
+    "stack": {
+      "languages": [
+        { "java": "intermediate" },
+        { "javascript": "intermediate"},
+        { "html": "intermediate" },
+        { "css": "basic" }
+      ],
+      "frameworks": [{}, {}, {}],
+      "libs": [],
+      "tools": []
+    },
+    "contact": {
+      "github": "https://github.com/M1GU33LL"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Vinicio Sarango",
+    "nick": "SENSEI",
+    "age": 44,
+    "home": "Ecuador",
+    "stack": {
+      "languages": [
+        { "java": "basic" },
+        { "javascript": "basic"},
+        { "html": "basic" },
+        { "css": "basic" }
+      ],
+      "frameworks": [{}, {}, {}],
+      "libs": [],
+      "tools": []
+    },
+    "contact": {
+      "github": "https://github.com/viniciosarango",
+      "whtasapp": "+593981891840"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Jose Luis Rangel",
+    "nick": "Josrenyer",
+    "age": 32,
+    "home": "Colombia",
+    "stack": {
+      "languages": [
+        { "java": "basic" },
+        { "javascript": "Intermediate"},
+        { "html": "Intermediate" },
+        { "css": "Intermediate" }
+      ],
+      "frameworks": ["Tailwind"],
+      "libs": ["React", "Bootstrap"],
+      "tools": []
+    },
+    "contact": {
+      "github": "https://github.com/josrenyer",
+      "whtasapp": "+573059272567"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Obed Garcia Rodriguez",
+    "nick": "obedRodriguez",
+    "age": 23,
+    "home": "Mexico",
+    "stack": {
+      "languages": [
+        { "java": "Intermediate" },
+        { "html": "Intermediate" },
+        { "css": "Intermediate" },
+        { "javascript": "Basic"},
+        { "kotlin": "Basic"},
+        { "php": "Basic"},
+        { "sql": "Intermediate" }
+      ],
+      "frameworks": [],
+      "libs": ["Bootstrap"],
+      "tools": []
+    },
+    "contact": {
+      "github": "https://github.com/ObedRodriguez7"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Nehemias",
+    "nick": "yeyisten34",
+    "age": 23,
+    "home": "México",
+    "stack": {
+      "languages": [
+        { "java": "intermediate" },
+        { "sql": "advanced"},
+        {"python": "basic"},
+        {"c#": "basic"},
+        {"js": "basic"}
+      ],
+      "frameworks": [
+      {"primefaces":"intermediate"}
+      ],
+      "libs": [],
+      "tools": []
+    },
+    "contact": {
+      "github": "https://github.com/yeyisten34",
+      "instagram": "@literatura_img"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Jonathan Mera Vera",
+    "nick": "lilasca",
+    "age": 25,
+    "home": "Ecuador",
+    "stack": {
+      "languages": [
+        { "html": "advanced" },
+        { "css": "Intermediate" },
+        { "java": "basic" }
+      ],
+      "frameworks": [],
+      "libs": [],
+      "tools": [{"IDE": "vs code"}]
+    },
+    "contact": {
+      "github": "https://github.com/lilasca"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Francisco José Guedez Ochoa",
+    "nick": "fguedezo#2969",
+    "age": 52,
+    "home": "Venezuela",
+    "stack": {
+      "languages": [
+        { "c++": "advanced" },
+        { "javascript": "advanced" },
+        { "java": "basic" },
+        {"php":"advanced"},
+        {"python":"advanced"}
+      ],
+      "frameworks": [
+        {"Laravel":"advanced"},
+        {"react":"advanced"},
+        {"flask":"advanced"},
+        {"express":"advanced"},
+        {"Bootstrap":"advanced"},
+        {"tailwind":"basic"}
+
+      ],
+      "libs": [],
+      "tools": [
+          {"IDE": "vs code"}
+        ]
+    },
+    "contact": {
+      "github": "https://github.com/fguedez1311"
+    }
+  }
+
+]

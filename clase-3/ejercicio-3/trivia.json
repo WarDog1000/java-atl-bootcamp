@@ -1,0 +1,44 @@
+{
+  "preguntas": [
+    {
+      "theme": "Historia",
+      "ask": "¿En qué año comenzó la Segunda Guerra Mundial?",
+      "options": ["1999", "1949", "1959", "1939"],
+      "answer": 4,
+      "explained": "La Segunda Guerra Mundial comenzó en el año 1939."
+    },
+    {
+      "theme": "Geografía",
+      "ask": "¿Cuál es el río más largo del mundo?",
+      "options": ["agregar opcion", "agregar opcion", "río Amazonas", "agregar opcion"],
+      "answer": "3",
+      "explained": "El río más largo del mundo es el río Amazonas."
+    },
+    {
+      "theme": "Cultura General",
+      "ask": "¿Cuál es la flor nacional de Japón?",
+      "options": ["Momo-Flor de Melocotón", "Kiku-Crisantemo", "Sakura-Flor del Cerezo", "Sumire-Violeta"],
+      "answer": 3,
+      "explained": "Es una flor tradicional de este país, que se conoce desde tiempo inmemoriales, pudiendo encontrarla en las principales decoraciones, y también como la flor nacional de Japón que se suele ver en las imágenes de tattoos orientales."
+
+    },
+    {
+      "theme": "Cine",
+      "ask": "¿Quién interpretó a Tony Stark en una película de superhéroes?",
+      "options": ["Nicolas Cage", "Hugh Jackman", "Robert Downey Jr", "Julian McMahon"],
+      "answer": 2,
+      "explained": "El actor Robert Downey Jr. interpretó a Tony Stark en las películas del Universo Cinematográfico de Marvel."
+    },
+    {
+      "theme": "Deportes",
+      "ask": "¿Qué país organizó la Copa Mundial de la FIFA 2002?",
+      "options": ["Italia", "Corea del Sur y Japón", "México ", "Alemania"],
+      "answer": 1,
+      "explained": "La Copa del Mundo de la FIFA 2002 fue organizada conjuntamente por Corea del Sur y Japón."
+    }
+ 
+  ]
+}
+
+
+
