@@ -40,7 +40,7 @@
       "theme": "Literature",
       "ask": "¿Quien fue el autor del señor de los anillos?",
       "options": ["Ken Follet", "Michael Ende", "Brian Selznick", "J.R.R. Tolkien"],
-      "answer": 1,
+      "answer": 5,
       "explained": "El autor del clasico libro del señor de los anillos fue Jhon Ronald Rouel Tolkien mejor conocido como J.R.R. Tolkien"
     }
  
