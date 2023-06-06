@@ -3,19 +3,21 @@
     "id": 1,
     "name": "Jhony Souza",
     "nick": "WarDog",
-    "age": 100,
-    "home": "Argentina",
+    "age": 18,
+    "home": "Argentina/Brasil",
     "stack": {
       "languages": [
         { "java": "intermediate" },
-        { "javascript": "advanced" },
-        { "typescript": "intermediate" },
-        { "htmml": "advanced" },
+        { "javaScript": "advanced" },
+        { "typeScript": "advanced" },
+        { "PHP": "advanced" },
+        { "html": "advanced" },
         { "css": "advanced" }
       ],
-      "frameworks": [{}, {}, {}],
-      "libs": [],
-      "tools": []
+      "frameworks": [{"Next.js": "Frontend jScript"}, {"Nest.js": "Backend jScript"}, {"Spring Boot": "Backend Java with Maven"}],
+      "libs": ["Bootstrap", "Tailwindcss", "React", "Redux", "JQuery", "Express"],
+      "tools": ["Node.js", "Git", "Sass", "Xampp", "Postman", "MySQL", "Docker", "JSON", "Markdown"],
+      "Knowledges": ["POO", "Algoritms and Data Structure", "Routing", "AJAX", "HTTP", "API REST", "Web Scraping", "DOM", "Responsive Web Design", "UIX Design"]
     },
     "contact": {
       "github": "https://github.com/WarDog1000",
@@ -155,58 +157,6 @@
     "contact": {
       "github": "https://github.com/yeyisten34",
       "instagram": "@literatura_img"
-    }
-  },
-  {
-    "id": 8,
-    "name": "Jonathan Mera Vera",
-    "nick": "lilasca",
-    "age": 25,
-    "home": "Ecuador",
-    "stack": {
-      "languages": [
-        { "html": "advanced" },
-        { "css": "Intermediate" },
-        { "java": "basic" }
-      ],
-      "frameworks": [],
-      "libs": [],
-      "tools": [{"IDE": "vs code"}]
-    },
-    "contact": {
-      "github": "https://github.com/lilasca"
-    }
-  },
-  {
-    "id": 9,
-    "name": "Francisco José Guedez Ochoa",
-    "nick": "fguedezo#2969",
-    "age": 52,
-    "home": "Venezuela",
-    "stack": {
-      "languages": [
-        { "c++": "advanced" },
-        { "javascript": "advanced" },
-        { "java": "basic" },
-        {"php":"advanced"},
-        {"python":"advanced"}
-      ],
-      "frameworks": [
-        {"Laravel":"advanced"},
-        {"react":"advanced"},
-        {"flask":"advanced"},
-        {"express":"advanced"},
-        {"Bootstrap":"advanced"},
-        {"tailwind":"basic"}
-
-      ],
-      "libs": [],
-      "tools": [
-          {"IDE": "vs code"}
-        ]
-    },
-    "contact": {
-      "github": "https://github.com/fguedez1311"
     }
   }
 
